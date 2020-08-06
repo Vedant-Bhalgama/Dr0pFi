@@ -37,5 +37,25 @@ For EG. My Email ID which I have taken over here is **fakemail@ gmail.com** and 
 ![Less_Secure_Apps](https://user-images.githubusercontent.com/67494275/89539923-fe45f100-d819-11ea-8d72-09b35bd8fcee.PNG)
 
 
+# Build to EXE
 
+--> So, Simply open CMD on your Computer and then run the build.py using Python2. Build.py is going to compile our Dr0pFi.py to EXE. Refer to the screenshot below!
+
+
+![Build](https://user-images.githubusercontent.com/67494275/89541419-f6874c00-d81b-11ea-80a2-3d15bed0530a.PNG)
+
+
+--> After you compile it to EXE, You are going to see the EXE file in the **dist** folder.
+
+
+![Drop](https://user-images.githubusercontent.com/67494275/89541480-0d2da300-d81c-11ea-9e5c-86c2a3ed237c.PNG)
+
+
+# Final Output
+
+--> After you send the File to the Target, After he/she executes it, You are going to receive a mail in which all Wifi Passwords are going to be there! **(You will receive Passwords only on that mail which you had edited in the script, Also make sure Less Secure Apps is turn on for your Google Account)**
+
+--> Wifi Passwords Final Output
+
+![Final Output](https://user-images.githubusercontent.com/67494275/89541774-6dbce000-d81c-11ea-9d64-d5eac31e5d1a.PNG)
 
