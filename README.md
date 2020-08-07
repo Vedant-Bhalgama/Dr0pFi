@@ -3,7 +3,7 @@ Using this tool, You can capture all Saved WiFi Passwords stored on Windows Comp
 
 # Note
 
-`--> I thank Zaid Sabih as he taught me to mkae this kind of wonderful and useful programs.`
+`--> I thank Zaid Sabih as he taught me to make this kind of wonderful and useful programs.`
 
 `--> I am not going to be responsible for any Illegal Purpose`      
 
