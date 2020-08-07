@@ -1,5 +1,10 @@
 # Dr0pFi - Steal WiFi Passwords from Windows
-Using this tool, You can capture all WiFi Passwords stored on Windows Computer and mail them to your email!
+Using this tool, You can capture all Saved WiFi Passwords stored on Windows Computer and mail them to your email!
+
+# Note
+
+`--> I thank Zaid Sabih as he taught me to mkae this kind of wonderful and useful programs.`
+`--> I am not going to be responsible for any Illegal Purpose`      
 
 # General Info
 
