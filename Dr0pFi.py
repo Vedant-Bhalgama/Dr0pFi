@@ -24,6 +24,6 @@ for network_name in network_names_list:
 	result = result + current_result
 
 
-send_mail("yourid", "yourpass", result)
+send_mail("yourid@gmail.com", "yourpass", result)
 
 
