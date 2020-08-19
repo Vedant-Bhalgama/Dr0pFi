@@ -45,6 +45,8 @@ For EG. My Email ID which I have taken over here is **fakemail@ gmail.com** and 
 
 # Build to EXE
 
+NOTE: Before building, you must have win32 installed for Python, install this with pip via `pip install pypiwin32`
+
 --> So, Simply open CMD on your Computer and then run the build.py using Python2. Build.py is going to compile our Dr0pFi.py to EXE. Refer to the screenshot below!
 
 
@@ -64,7 +66,3 @@ For EG. My Email ID which I have taken over here is **fakemail@ gmail.com** and 
 --> Wifi Passwords Final Output
 
 ![Final Output](https://user-images.githubusercontent.com/67494275/89542144-e7ed6480-d81c-11ea-8cf2-d45f9e497dc8.PNG)
-
-# Things Needed to Add
-
-**--> I still have to add a feature in which the program executes but doesnt shows any Console Window, I tried to perform it but when the target executes the exe it gives a error**
