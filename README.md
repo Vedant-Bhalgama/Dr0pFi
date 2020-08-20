@@ -3,6 +3,8 @@ Using this tool, You can capture all Saved WiFi Passwords stored on Windows Comp
 
 # Note
 
+`--> I also thank 1d8 for adding noconsole view in the Dr0Fi`
+
 `--> I thank Zaid Sabih as he taught me to make this kind of wonderful and useful programs.`
 
 `--> I am not going to be responsible for any Illegal Purpose`      
