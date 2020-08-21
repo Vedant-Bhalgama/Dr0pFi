@@ -3,6 +3,7 @@ Using this tool, You can capture all Saved WiFi Passwords stored on Windows Comp
 
 # Note
 
+`--> You need Python2 for compiling the Dr0pFi to a executable.`
 `--> I thank Zaid Sabih as he taught me to make this kind of wonderful and useful programs.`
 
 `--> I am not going to be responsible for any Illegal Purpose`      
